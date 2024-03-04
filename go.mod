@@ -1,4 +1,4 @@
-module github.com/nyaruka/phonenumbers
+module github.com/hlhgogo/phonenumbers
 
 go 1.19
 
